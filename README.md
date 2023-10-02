@@ -8,13 +8,8 @@ The script generate data in csv format which can read  jgmenu. We get a menu wit
 
 ##### PRESENTATION
 
-<<<<<<< HEAD
 ![script in working](media/mount-umount-presentation.gif)
 
-=======
-![script in working](media/mount-umount-presentation.mp4)
-<video src="media/mount-umount-presentation.mp4"></video>
->>>>>>> e6deff46029c2f1e691ea29f52677cd1c63d66cb
 ##### DEPENDENCIES
 
 * Installed and working Jgmenu menu
